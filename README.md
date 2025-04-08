@@ -65,7 +65,7 @@ Analyzed retail sales transactions to understand purchasing behavior, revenue tr
 
 ![image.png](Supermarket_Sales/newplot.png)
 
-![image.png](Supermarket_Salesk/world.png)
+![image.png](Supermarket_Sales/world.png)
 
 ---
 
