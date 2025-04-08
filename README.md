@@ -1,4 +1,4 @@
-> This project showcases my ability to work with real-world datasets using Python, including data cleaning, transformation, visualization, and storytelling.
+> 🎯This project showcases my ability to work with real-world datasets using Python, including data cleaning, transformation, visualization, and storytelling.
 > 
 
 ## Datasets Used
